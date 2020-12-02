@@ -1,1 +1,8 @@
 .idea
+__pycache__/dictionary_creator.cpython-38.pyc
+
+__pycache__/indexer.cpython-38.pyc
+
+dictionary
+
+inverted_index
